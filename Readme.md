@@ -1,4 +1,4 @@
-# Tema 4 Protocaole de comunicatii: Client Web. Comunicaţie cu REST API.
+# Protocaole de comunicatii: Client Web. Comunicaţie cu REST API.
 
 ## Obiectiv
 Crearea unui client Web care să comunice cu un REST API. Familiarizarea cu 
